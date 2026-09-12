@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32139791/README.md)
 # Timestamp Notes
 
 轻量级时间戳记录工具，适用于会议纪要、作品反馈、项目评审等情境。该应用为纯前端静态站点，支持手动计时、时间戳记录、笔记编辑、多 Session 管理、JSON/Markdown 导出，以及本地 IndexedDB 持久化。
